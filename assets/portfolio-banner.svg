@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+<title id="title">Laptop Price Prediction</title><desc id="desc">A portfolio banner for Laptop Price Prediction, by Tanmay Jhalani</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080F20"/><stop offset=".58" stop-color="#111B36"/><stop offset="1" stop-color="#201443"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient><filter id="blur"><feGaussianBlur stdDeviation="30"/></filter></defs>
+<rect width="1200" height="280" rx="24" fill="url(#bg)"/><circle cx="1010" cy="60" r="145" fill="#2563EB" opacity=".22" filter="url(#blur)"/><circle cx="1120" cy="240" r="125" fill="#9333EA" opacity=".2" filter="url(#blur)"/>
+<path d="M0 220 C250 160 430 300 700 210 S1050 110 1200 170" fill="none" stroke="#64748B" stroke-opacity=".16" stroke-width="2"/><path d="M0 245 C250 185 430 325 700 235 S1050 135 1200 195" fill="none" stroke="#64748B" stroke-opacity=".12" stroke-width="2"/>
+<rect x="64" y="52" width="9" height="176" rx="5" fill="url(#accent)"/>
+<text x="102" y="83" fill="#93C5FD" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">TANMAY JHALANI  /  AI &amp; ML PORTFOLIO</text>
+<text x="102" y="153" fill="#F8FAFC" font-family="Inter,Arial,sans-serif" font-size="43" font-weight="750">Laptop Price Prediction</text>
+<text x="104" y="198" fill="#C4B5FD" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="650" letter-spacing="3">DATA SCIENCE · PRICE INTELLIGENCE</text>
+<g transform="translate(1000 104)" fill="none" stroke="url(#accent)" stroke-width="2.5"><circle cx="0" cy="0" r="55" opacity=".75"/><circle cx="0" cy="0" r="37" opacity=".6"/><circle cx="0" cy="0" r="18" opacity=".5"/><path d="M-76 0H76M0-76V76M-54-54L54 54M54-54L-54 54" opacity=".35"/><circle cx="0" cy="0" r="5" fill="#7DD3FC" stroke="none"/></g>
+<text x="103" y="250" fill="#64748B" font-family="Inter,Arial,sans-serif" font-size="13" letter-spacing="2">BUILDING INTELLIGENT, DEPLOYABLE SYSTEMS</text>
+</svg>
