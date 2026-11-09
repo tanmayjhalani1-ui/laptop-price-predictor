@@ -1,3 +1,13 @@
+<div align="center">
+  <img src="assets/portfolio-banner.svg" alt="Laptop Price Prediction — Tanmay Jhalani" width="100%" />
+</div>
+
+<div align="center">
+  <strong>Designed and engineered by Tanmay Jhalani</strong> · <a href="https://github.com/tanmayjhalani1-ui">GitHub Profile</a>
+</div>
+
+---
+
 # Laptop Price Predictor
 
 An end-to-end laptop price regression project built around the repository's original dataset and notebook. The project provides a reusable scikit-learn training pipeline, cross-validated model selection, MLflow experiment tracking, a Streamlit application, a lightweight FastAPI service, and Docker support.
